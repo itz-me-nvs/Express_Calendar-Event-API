@@ -37,8 +37,7 @@ Set up environment variables:
 
     CLIENT_ID=your_google_client_id
     CLIENT_SECRET=your_google_client_secret
-
-REFRESH_TOKEN=your_google_refresh_token
+    REFRESH_TOKEN=your_google_refresh_token
 
 Start the server:
 
